@@ -1,5 +1,8 @@
 library(shiny)
 
+## This app is well documented,
+## please see here: https://yrdeboer.shinyapps.io/week4_assignment/
+
 ui <- fluidPage(
     
     sidebarLayout(

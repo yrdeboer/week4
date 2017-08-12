@@ -3,7 +3,8 @@ library(leaflet)
 
 server <- function(input, output, session) {
      
-    ## Here we put the first map
+    ## These are the center points of the initial
+    ## view (near my house in Amsterdam)
     lat0 <- 52.3714529
     lng0 <- 4.9461885
     
